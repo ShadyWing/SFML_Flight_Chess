@@ -1,1 +1,5 @@
-# SFML_Flight_Chess
+# 游戏程序设计PBL
+
+飞行棋
+
+HDU-20011721
